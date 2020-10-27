@@ -1,5 +1,6 @@
 # HIRA (건강보험심사평가원) 산・학・관 교육
 
+#### Data File과 상세 Code는 보안상 알려드릴 수 없습니다 '◡'
 - Period : 2020.07.22 ~ 2020.09.03  
 - Subject : How does a Particular Drug affect Stroke Complications? (Development of Classification Model)
 - Language : SAS, SQL, R
